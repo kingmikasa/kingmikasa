@@ -1,0 +1,16 @@
+{
+  "name": "mikasa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jess_lusitano",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "lowdb": "^1.0.0",
+    "youtube-audio-stream": "^0.2.0"
+  }
+}
